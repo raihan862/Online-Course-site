@@ -1,0 +1,8 @@
+.card{
+    width: 100%;
+}
+.title,.card-subtitle{
+    text-align: center;
+    font-weight: bold;
+    padding: 10px
+}
